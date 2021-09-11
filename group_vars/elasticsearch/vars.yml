@@ -1,0 +1,3 @@
+---
+elastic_version: "{{ elk_stack_version }}"
+elastic_home: "/opt/elastic/{{ elastic_version }}"
