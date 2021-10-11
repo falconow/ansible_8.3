@@ -7,8 +7,8 @@ elasticsearch:
 kibana:
   hosts:
     k-instance:
-      ansible_host: 178.154.241.46
+      ansible_host: 
 app:
   hosts:
     application-instance:
-      ansible_host: 62.84.115.21
+      ansible_host: 
