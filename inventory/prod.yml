@@ -3,7 +3,6 @@ elasticsearch:
   hosts:
     el-instance:
       ansible_host: 62.84.117.75
-      ansible_user: falconow
 kibana:
   hosts:
     k-instance:
